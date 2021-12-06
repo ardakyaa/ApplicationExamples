@@ -1,0 +1,13 @@
+C:\MyWorkSpaces\CRM_Example\CRM_Example\bin\Debug\CRM_Example.exe.config
+C:\MyWorkSpaces\CRM_Example\CRM_Example\bin\Debug\CRM_Example.exe
+C:\MyWorkSpaces\CRM_Example\CRM_Example\bin\Debug\CRM_Example.pdb
+C:\MyWorkSpaces\CRM_Example\CRM_Example\obj\Debug\CRM_Example.csproj.AssemblyReference.cache
+C:\MyWorkSpaces\CRM_Example\CRM_Example\obj\Debug\CRM_Example.Form1.resources
+C:\MyWorkSpaces\CRM_Example\CRM_Example\obj\Debug\CRM_Example.Properties.Resources.resources
+C:\MyWorkSpaces\CRM_Example\CRM_Example\obj\Debug\CRM_Example.csproj.GenerateResource.cache
+C:\MyWorkSpaces\CRM_Example\CRM_Example\obj\Debug\CRM_Example.csproj.CoreCompileInputs.cache
+C:\MyWorkSpaces\CRM_Example\CRM_Example\obj\Debug\CRM_Example.exe
+C:\MyWorkSpaces\CRM_Example\CRM_Example\obj\Debug\CRM_Example.pdb
+C:\MyWorkSpaces\CRM_Example\CRM_Example\bin\Debug\Newtonsoft.Json.dll
+C:\MyWorkSpaces\CRM_Example\CRM_Example\bin\Debug\Newtonsoft.Json.xml
+C:\MyWorkSpaces\CRM_Example\CRM_Example\obj\Debug\CRM_Example.csproj.CopyComplete
